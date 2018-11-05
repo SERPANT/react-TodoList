@@ -9,7 +9,7 @@ class Card extends Component {
 
   switchToTask() {
     this.setState({
-      taskList: ["empty list", "add something", "I am so frustrated"]
+      taskList: ["empty list", "add something", "This is an example"]
     });
   }
 
