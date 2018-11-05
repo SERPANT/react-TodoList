@@ -15,7 +15,7 @@ code {
 
 .container {
   margin: 0 auto;
-  width: 411px;
+  max-width: 411px;
 }
 
 .card {
@@ -66,7 +66,7 @@ code {
 }
 
 .day-info-button {
-  width: 300px;
+  width: 72.99270073%;
   margin: 0 auto;
   margin-top: 100px;
 }
@@ -74,15 +74,18 @@ code {
 .heading {
   font-size: 22px;
   font-weight: bold;
+  width: 100%;
 }
 
 .subheading {
   color: grey;
   margin-top: 5px;
+  width: 100%;
 }
 
 .day-info {
   text-align: center;
+  width: 100%;
 }
 
 .none {
